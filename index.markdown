@@ -16,7 +16,41 @@ layout: home
 	</div>
 </div>
 
+<div id="experts-container">
+	<div id="experts-header"><h3>Joined by experts from</h3></div>
+	<img id="index" src="/assets/images/index_ventures_colourised.png" alt="Index Ventures">
+	<img id="stride" src="/assets/images/stride_vc_colourised.png" alt="Stride.VC">	
+	<img id="forward" src="/assets/images/forward_partners_colourised.png" alt="Forward Partners">	
+	<img id="clearscore" src="/assets/images/clearscore_colourised.png" alt="ClearScore">			
+</div>
+
+<div id="next-up-container">
+	<div id="next-up-header"><h2>next up<span class="primary-color">.</span></h2></div>
+	<div id="next-up">
+		<img id="fred" src="/assets/images/fred-destin.jpg" alt="Fred Destin">
+		<div class="profile">
+			<p class="date">23rd April 2020</p>
+			<p class="name">Fred Destin, Partner at Stride.VC</p>
+			<p>Fred is the founder of Stride.VC; a seed-stage fund operating in London and Paris. Previously he was a General Partner at Accel, and an early backer in notable startups including Deliveroo, Zoopla, Secret Escapes, and CarWow.</p>
+		</div>
+	</div>
+</div>
+
+
+<div id="previously-container">
+	<div id="previously-header"><h2>previously<span class="secondary-color">.</span></h2></div>
+	<div class="previously">
+		<img id="dharmesh" src="/assets/images/fred-destin.jpg" alt="Fred Destin">
+		<div class="profile">
+			<p class="date">23rd April 2020</p>
+			<p class="name">Fred Destin, Partner at Stride.VC</p>
+			<p>Fred is the founder of Stride.VC; a seed-stage fund operating in London and Paris. Previously he was a General Partner at Accel, and an early backer in notable startups including Deliveroo, Zoopla, Secret Escapes, and CarWow.</p>
+		</div>
+	</div>
+</div>
+
 <div id="quote-container">
+	<div id="quotes-header"><h3>Feedback from startups</h3></div>
 	<div id="quote-1" class="quote">
 		<p>It was incredible value, and a safe space for feedback. I'd pay for this.</p>
 	</div>
@@ -28,18 +62,6 @@ layout: home
 	</div>
 </div>
 
-<h2>next up<span class="primary-color">.</span></h2>
-
-Fred Destin
-Partner at Stride.VC
-(ex-Accel, ex-board at Deliveroo, Zoopla)
-
-
-
-<h2>previously<span class="secondary-color">.</span></h2>
-<p> Experts </p>
-<p> Startups </p>
-
 <h2>how it works<span class="tertiary-color">.</span></h2>
 <p> Private, one-on-one sessions </p>
 
@@ -47,6 +69,7 @@ Partner at Stride.VC
 <p> You're a startup with a live product. </p>
 
 <h2>us<span class="secondary-color">.</span></h2>
+<p> We're the team that established Startup Grind London.</p>
 
 <script>
 	document.addEventListener('DOMContentLoaded', function() {
