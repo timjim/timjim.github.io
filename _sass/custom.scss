@@ -45,6 +45,7 @@ p {
 #main-title {
 	font-size: 4rem;
 	line-height: 4rem;
+    margin-top: 40px;
 }
 
 #key-messaging-container {
@@ -71,6 +72,7 @@ p {
 	height: 80px;
 	border-radius: 5px;
 	cursor: pointer;
+	margin-bottom: 40px;
 	transition: background-color 0.3s ease;
 	&:hover {
         background-color: $secondary-color;
