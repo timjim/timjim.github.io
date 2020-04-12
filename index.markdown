@@ -74,7 +74,7 @@ layout: home
 		<img id="kash" class="profile-image" src="/assets/images/kash-shah.jpeg" alt="Kash Shah">
 		<div class="profile">
 			<p class="date">26th February 2020</p>
-			<p class="name">Kash Shah, angel and ex-CPO at ClearScore</p>
+			<p class="name">Kash Shah, ex-CPO at ClearScore</p>
 			<p>Kash built one of the fastest growing FinTechs in Europe as the Chief Product Officer of ClearScore. He's now an angel investor, and the CPO at Multiply.</p>
 		</div>
 	</div>
