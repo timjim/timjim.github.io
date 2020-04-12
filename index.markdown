@@ -31,7 +31,8 @@ layout: home
 		<div class="profile">
 			<p class="date">23rd April 2020</p>
 			<p class="name">Fred Destin, Partner at Stride.VC</p>
-			<p>Fred is the founder of Stride.VC; a seed-stage fund operating in London and Paris. Previously he was a General Partner at Accel, and an early backer in notable startups including Deliveroo, Zoopla, Secret Escapes, and CarWow.</p>
+			<p>Fred is the founder of Stride.VC; a seed-stage fund operating in London and Paris. Previously he was a General Partner at Accel, and an early backer in notable startups including Deliveroo and Zoopla.</p>
+			{% include secondary_button.html url="https://sglondon.typeform.com/to/M4bNXE" %}
 		</div>
 	</div>
 </div>
@@ -49,6 +50,15 @@ layout: home
 	</div>
 </div>
 
+<h2>how it works<span class="secondary-color">.</span></h2>
+<p> Private, one-on-one sessions </p>
+
+<h2>you<span class="tertiary-color">.</span></h2>
+<p> You're a startup with a live product. </p>
+
+<h2>us<span class="primary-color">.</span></h2>
+<p> We're the team that established Startup Grind London.</p>
+
 
 <div id="previously-container">
 	<div id="previously-header"><h2>previously<span class="secondary-color">.</span></h2></div>
@@ -57,7 +67,7 @@ layout: home
 		<div class="profile">
 			<p class="date">25th March 2020</p>
 			<p class="name">Dharmesh Raithatha, Partner at Forward Partners</p>
-			<p>Dharmesh is the founder of Stride.VC; a seed-stage fund operating in London and Paris. Previously he was a General Partner at Accel, and an early backer in notable startups including Deliveroo, Zoopla, Secret Escapes, and CarWow.</p>
+			<p>Dharmesh is a Product Partner at Forward Partners; an £81m early-stage fund that has invested in 55+ companies primarily in Applied AI, Marketplaces, and E-Commerce.</p>
 		</div>
 	</div>
 	<div class="previously">
@@ -65,19 +75,10 @@ layout: home
 		<div class="profile">
 			<p class="date">26th February 2020</p>
 			<p class="name">Kash Shah, angel and ex-CPO at ClearScore</p>
-			<p>Dharmesh is the founder of Stride.VC; a seed-stage fund operating in London and Paris. Previously he was a General Partner at Accel, and an early backer in notable startups including Deliveroo, Zoopla, Secret Escapes, and CarWow.</p>
+			<p>Kash built one of the fastest growing FinTechs in Europe as the Chief Product Officer of ClearScore. He's now an angel investor, and the CPO at Multiply.</p>
 		</div>
 	</div>
 </div>
-
-<h2>how it works<span class="tertiary-color">.</span></h2>
-<p> Private, one-on-one sessions </p>
-
-<h2>you<span class="primary-color">.</span></h2>
-<p> You're a startup with a live product. </p>
-
-<h2>us<span class="secondary-color">.</span></h2>
-<p> We're the team that established Startup Grind London.</p>
 
 <script>
 	document.addEventListener('DOMContentLoaded', function() {
