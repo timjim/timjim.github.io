@@ -1,0 +1,31 @@
+$primary-color: #2B8EF5;
+$secondary-color: #FDB146;
+$tertiary-color: #EAADEA;
+
+
+h1 {
+	font-family: ProximaNova-Black;
+}
+
+p {
+	font-family: ProximaNova-Reg;
+}
+
+#main-title {
+	font-size: 4rem;
+	line-height: 4rem;
+	color: #0D302D;
+}
+
+#atf {
+	display: flex;
+	align-items: center;
+    min-height: 80vh;
+}
+
+.button {
+	background-color: $primary-color;
+	width: 200px;
+	height: 80px;
+	border-radius: 4px;
+}
