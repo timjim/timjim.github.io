@@ -4,6 +4,22 @@ $primary-color: #2B8EF5;
 $secondary-color: #FDB146;
 $tertiary-color: #EAADEA;
 
+.primary-color {
+	color: $primary-color;
+}
+
+.secondary-color {
+	color: $secondary-color;
+}
+
+.tertiary-color {
+	color: $tertiary-color;
+}
+
+.transitioning-period {
+	transition: color 5s ease;
+}
+
 
 h1, h2 {
 	font-family: ProximaNova-Black;
