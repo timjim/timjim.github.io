@@ -28,7 +28,7 @@ layout: home
 	</div>
 </div>
 
-## next up
+<h2>next up<span class="primary-color">.</span></h2>
 
 Fred Destin
 Partner at Stride.VC
@@ -36,13 +36,17 @@ Partner at Stride.VC
 
 
 
-## previously
+<h2>previously<span class="secondary-color">.</span></h2>
+<p> Experts </p>
+<p> Startups </p>
 
-## how it works
+<h2>how it works<span class="tertiary-color">.</span></h2>
+<p> Private, one-on-one sessions </p>
 
-## you
+<h2>you<span class="primary-color">.</span></h2>
+<p> You're a startup with a live product. </p>
 
-## us
+<h2>us<span class="secondary-color">.</span></h2>
 
 <script>
 	document.addEventListener('DOMContentLoaded', function() {
