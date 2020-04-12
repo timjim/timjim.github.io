@@ -140,7 +140,7 @@ p {
 }
 
 #next-up-container, #previously-container {
-	margin-top: 60px;
+	margin: 60px 0;
 }
 
 #next-up, .previously {
@@ -149,11 +149,21 @@ p {
 	align-items: center;
 }
 
+.previously {
+	margin-bottom: 32px;
+
+}
+
+.previously:last-of-type {
+	margin-bottom: 0;
+
+}
+
 #next-up-header, #previously-header {
 	width: 100%;
 }
 
-#fred {
+.profile-image {
 	width: 250px;
 	border-radius: 5px;
 	

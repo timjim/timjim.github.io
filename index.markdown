@@ -27,20 +27,7 @@ layout: home
 <div id="next-up-container">
 	<div id="next-up-header"><h2>next up<span class="primary-color">.</span></h2></div>
 	<div id="next-up">
-		<img id="fred" src="/assets/images/fred-destin.jpg" alt="Fred Destin">
-		<div class="profile">
-			<p class="date">23rd April 2020</p>
-			<p class="name">Fred Destin, Partner at Stride.VC</p>
-			<p>Fred is the founder of Stride.VC; a seed-stage fund operating in London and Paris. Previously he was a General Partner at Accel, and an early backer in notable startups including Deliveroo, Zoopla, Secret Escapes, and CarWow.</p>
-		</div>
-	</div>
-</div>
-
-
-<div id="previously-container">
-	<div id="previously-header"><h2>previously<span class="secondary-color">.</span></h2></div>
-	<div class="previously">
-		<img id="dharmesh" src="/assets/images/fred-destin.jpg" alt="Fred Destin">
+		<img id="fred" class="profile-image" src="/assets/images/fred-destin.jpg" alt="Fred Destin">
 		<div class="profile">
 			<p class="date">23rd April 2020</p>
 			<p class="name">Fred Destin, Partner at Stride.VC</p>
@@ -59,6 +46,27 @@ layout: home
 	</div>
 	<div id="quote-3" class="quote">
 		<p>We really enjoyed it, your feedback was very actionable.</p>
+	</div>
+</div>
+
+
+<div id="previously-container">
+	<div id="previously-header"><h2>previously<span class="secondary-color">.</span></h2></div>
+	<div class="previously">
+		<img id="dharmesh" class="profile-image" src="/assets/images/dharmesh-raithatha.jpg" alt="Dharmesh Raithatha">
+		<div class="profile">
+			<p class="date">25th March 2020</p>
+			<p class="name">Dharmesh Raithatha, Partner at Forward Partners</p>
+			<p>Dharmesh is the founder of Stride.VC; a seed-stage fund operating in London and Paris. Previously he was a General Partner at Accel, and an early backer in notable startups including Deliveroo, Zoopla, Secret Escapes, and CarWow.</p>
+		</div>
+	</div>
+	<div class="previously">
+		<img id="kash" class="profile-image" src="/assets/images/kash-shah.jpeg" alt="Kash Shah">
+		<div class="profile">
+			<p class="date">26th February 2020</p>
+			<p class="name">Kash Shah, angel and ex-CPO at ClearScore</p>
+			<p>Dharmesh is the founder of Stride.VC; a seed-stage fund operating in London and Paris. Previously he was a General Partner at Accel, and an early backer in notable startups including Deliveroo, Zoopla, Secret Escapes, and CarWow.</p>
+		</div>
 	</div>
 </div>
 
