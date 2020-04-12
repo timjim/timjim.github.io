@@ -1,31 +1,107 @@
+$font-color: #0D302D;
+$font-secondary-color: #6E928F;
 $primary-color: #2B8EF5;
 $secondary-color: #FDB146;
 $tertiary-color: #EAADEA;
 
 
-h1 {
+h1, h2 {
 	font-family: ProximaNova-Black;
+	margin: 0;
+	color: $font-color;
 }
 
 p {
 	font-family: ProximaNova-Reg;
-}
-
-#main-title {
-	font-size: 4rem;
-	line-height: 4rem;
-	color: #0D302D;
+	color: $font-color;
 }
 
 #atf {
 	display: flex;
 	align-items: center;
-    min-height: 80vh;
+    min-height: 75vh;
+}
+
+#main-title {
+	font-size: 4rem;
+	line-height: 4rem;
+}
+
+#key-messaging-container {
+	padding: 40px 0 40px 0;
+}
+
+.key-messaging  {
+	font-size: 1.8rem;
+	line-height: 2.8rem;
+	color: #0D302D;
+	margin: 0;
 }
 
 .button {
+	display: flex;
+	align-items: center;
+	justify-content: center;
 	background-color: $primary-color;
+	text-shadow: 2px 2px 6px rgba(0,0,0,0.2);
+	font-family: ProximaNova-Bold;
+	font-size: 1.3rem;
+	color: white;
 	width: 200px;
 	height: 80px;
-	border-radius: 4px;
+	border-radius: 5px;
+	cursor: pointer;
+	transition: background-color 0.3s ease;
+	&:hover {
+        background-color: $secondary-color;
+    }
+    &:active {
+        background-color: $tertiary-color;
+    }
+}
+
+#quote-container {
+	position: relative;
+    display: flex;
+    flex-wrap: wrap;
+	align-items: center;
+	justify-content: space-between;
+	min-height: 20vh;
+	left: -42px;
+	width: calc(100% + 42px);
+}
+
+.quote {
+	position: relative;
+	width: 200px;
+	font-size: 1.1rem;
+	padding: 0 16px 0 42px;
+}
+
+#quote-2 {	
+	width: 180px;
+}
+
+.quote::before{
+	font-family: ProximaNova-Reg; 
+  	content: "\201C";
+  	color: $font-secondary-color;
+  	font-size: 4rem;
+  	position: absolute;
+  	left: 0px;
+  	top: -20px;
+}
+
+.quote::after{
+  content: '';
+}
+
+.noselect {
+  -webkit-touch-callout: none; /* iOS Safari */
+    -webkit-user-select: none; /* Safari */
+     -khtml-user-select: none; /* Konqueror HTML */
+       -moz-user-select: none; /* Old versions of Firefox */
+        -ms-user-select: none; /* Internet Explorer/Edge */
+            user-select: none; /* Non-prefixed version, currently
+                                  supported by Chrome, Opera and Firefox */
 }
