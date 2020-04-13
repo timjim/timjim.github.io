@@ -359,7 +359,7 @@ p {
 
 }
 
-@media (min-width: 320px) and (max-width: 767px)  {
+@media (max-width: 767px)  {
 
 	#next-up, .previously {
 		flex-wrap: wrap;
@@ -375,7 +375,7 @@ p {
 	
 }
 
-@media (min-width: 320px) and (max-width: 480px)  {
+@media (max-width: 480px)  {
 
 	.key-messaging {
 		font-size: 1.4rem;
@@ -426,6 +426,26 @@ p {
 
 	#stride, #clearscore {
 		padding: 0 40px;
+	}
+
+}
+
+@media (max-width: 320px)  {
+
+	.key-messaging, h3 {
+		font-size: 1.2rem;
+	}
+
+	.button {
+		height: 70px;
+	}
+
+	.big-quote {
+		width: calc(100% - 48px);
+	}
+
+	#stride, #clearscore {
+		padding: 0;
 	}
 
 }
