@@ -1,9 +1,42 @@
-@custom-media --phone (320px < width < 480px); 
-@custom-media --tablets (481px < width  < 767px);
-@custom-media --ipad-landscape (768px < width < 1024px) and (orientation: landscape);
-@custom-media --ipad-normal (768px < width < 1024px);
-@custom-media --desktop (1025px < width  < 1280px);
-@custom-media --large (width > 1281px);
+@font-face {
+    font-family: 'Proxima Nova Rg';
+    src: url('ProximaNova-Bold.woff2') format('woff2'),
+        url('ProximaNova-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Proxima Nova Th';
+    src: url('ProximaNova-Extrabld.woff2') format('woff2'),
+        url('ProximaNova-Extrabld.woff') format('woff');
+    font-weight: 800;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Proxima Nova Rg';
+    src: url('ProximaNova-Regular.woff2') format('woff2'),
+        url('ProximaNova-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Proxima Nova Th';
+    src: url('ProximaNovaT-Thin.woff2') format('woff2'),
+        url('ProximaNovaT-Thin.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Proxima Nova Bl';
+    src: url('ProximaNova-Black.woff2') format('woff2'),
+        url('ProximaNova-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+}
 
 $font-color: #0D302D;
 $font-secondary-color: #6E928F;
@@ -33,7 +66,7 @@ $tertiary-color: #EAADEA;
 
 
 h1, h2 {
-	font-family: ProximaNova-Black;
+	font-family: 'Proxima Nova Bl';
 	margin: 0;
 	color: $font-color;
 }
@@ -45,14 +78,14 @@ h2 {
 
 h3 {
 	
-	font-family: ProximaNova-Reg;
+	font-family: 'Proxima Nova Rg';
 	margin: 0;
 	color: $font-color;
 	font-size: 1.4rem;
 }
 
 p {
-	font-family: ProximaNova-Reg;
+	font-family: 'Proxima Nova Rg';
 	color: $font-color;
 }
 
@@ -249,6 +282,7 @@ p {
 	border-bottom: 2px solid $font-secondary-color;
 	width: calc(100% - 42px);
 	left: 42px;
+	margin-bottom: 16px;
 }
 
 .quote {
@@ -271,7 +305,7 @@ p {
 }
 
 #quote-2 {	
-	width: 180px;
+	width: 200px;
 }
 
 .quote::before, .big-quote::before{
@@ -339,7 +373,7 @@ p {
 @media (min-width: 320px) and (max-width: 480px)  {
 
 	.key-messaging {
-		font-size: 1.5rem;
+		font-size: 1.4rem;
 	}
 
 
