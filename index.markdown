@@ -12,7 +12,7 @@ layout: home
 			<p class="key-messaging">Finding product-market fit is hard.</p>
 			<p class="key-messaging">Get free, expert advice at our virtual surgeries.</p>
 		</div>
-		{% include button.html url="https://sglondon.typeform.com/to/M4bNXE" %}
+		{% include button.html url="https://sglondon.typeform.com/to/M4bNXE?typeform-welcome=0" %}
 	</div>
 </div>
 
@@ -32,7 +32,7 @@ layout: home
 			<p class="date">23rd April 2020</p>
 			<p class="name">Fred Destin, Partner at Stride.VC</p>
 			<p>Fred is the founder of Stride.VC; a seed-stage fund operating in London and Paris. Previously he was a General Partner at Accel, and an early backer in notable startups including Deliveroo and Zoopla.</p>
-			{% include secondary_button.html url="https://sglondon.typeform.com/to/M4bNXE" %}
+			{% include secondary_button.html url="https://sglondon.typeform.com/to/M4bNXE?typeform-welcome=0" %}
 		</div>
 	</div>
 </div>
