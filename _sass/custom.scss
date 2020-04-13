@@ -1,5 +1,5 @@
 @font-face {
-    font-family: 'Proxima Nova Rg';
+    font-family: 'Proxima Nova Bo';
     src: url('/assets/fonts/ProximaNova-Bold.woff2') format('woff2'),
         url('/assets/fonts/ProximaNova-Bold.woff') format('woff'),
         url('/assets/fonts/ProximaNova-Bold.ttf') format('truetype');
@@ -128,7 +128,7 @@ p {
 	justify-content: center;
 	background-color: $primary-color;
 	text-shadow: 2px 2px 6px rgba(0,0,0,0.2);
-	font-family: ProximaNova-Bold;
+	font-family: 'Proxima Nova Bo';
 	font-size: 1.3rem;
 	color: white;
 	width: 200px;
