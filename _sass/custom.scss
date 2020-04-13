@@ -1,7 +1,8 @@
 @font-face {
     font-family: 'Proxima Nova Rg';
     src: url('ProximaNova-Bold.woff2') format('woff2'),
-        url('ProximaNova-Bold.woff') format('woff');
+        url('ProximaNova-Bold.woff') format('woff'),
+        url('ProximaNova-Bold.ttf') format('truetype');
     font-weight: bold;
     font-style: normal;
 }
@@ -9,7 +10,8 @@
 @font-face {
     font-family: 'Proxima Nova Th';
     src: url('ProximaNova-Extrabld.woff2') format('woff2'),
-        url('ProximaNova-Extrabld.woff') format('woff');
+        url('ProximaNova-Extrabld.woff') format('woff'),
+        url('ProximaNova-Extrabld.ttf') format('truetype');
     font-weight: 800;
     font-style: normal;
 }
@@ -17,7 +19,8 @@
 @font-face {
     font-family: 'Proxima Nova Rg';
     src: url('ProximaNova-Regular.woff2') format('woff2'),
-        url('ProximaNova-Regular.woff') format('woff');
+        url('ProximaNova-Regular.woff') format('woff'),
+        url('ProximaNova-Regular.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
@@ -25,7 +28,8 @@
 @font-face {
     font-family: 'Proxima Nova Th';
     src: url('ProximaNovaT-Thin.woff2') format('woff2'),
-        url('ProximaNovaT-Thin.woff') format('woff');
+        url('ProximaNovaT-Thin.woff') format('woff'),
+        url('ProximaNovaT-Thin.ttf') format('truetype');
     font-weight: 100;
     font-style: normal;
 }
@@ -33,7 +37,8 @@
 @font-face {
     font-family: 'Proxima Nova Bl';
     src: url('ProximaNova-Black.woff2') format('woff2'),
-        url('ProximaNova-Black.woff') format('woff');
+        url('ProximaNova-Black.woff') format('woff'),
+        url('ProximaNova-Black.ttf') format('truetype');
     font-weight: 900;
     font-style: normal;
 }
