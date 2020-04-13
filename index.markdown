@@ -31,7 +31,7 @@ layout: home
 		<div class="profile">
 			<p class="date">23rd April 2020</p>
 			<p class="name">Fred Destin, Partner at Stride.VC</p>
-			<p>Fred is the founder of Stride.VC; a seed-stage fund operating in London and Paris. Previously he was a General Partner at Accel, and an early backer in notable startups including Deliveroo and Zoopla.</p>
+			<p>Fred is the founder of Stride.VC; a seed-stage fund operating in London and Paris. As a General Partner at Accel, he was an early backer in notable startups including Deliveroo and Zoopla.</p>
 			{% include secondary_button.html url="https://sglondon.typeform.com/to/M4bNXE?typeform-welcome=0" %}
 		</div>
 	</div>
