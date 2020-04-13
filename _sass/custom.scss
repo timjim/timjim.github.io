@@ -428,6 +428,10 @@ p {
 		padding: 0 40px;
 	}
 
+	.button::after {
+		display: none;
+	}
+
 }
 
 @media (max-width: 320px)  {
