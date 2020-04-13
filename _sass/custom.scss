@@ -1,3 +1,10 @@
+@custom-media --phone (320px < width < 480px); 
+@custom-media --tablets (481px < width  < 767px);
+@custom-media --ipad-landscape (768px < width < 1024px) and (orientation: landscape);
+@custom-media --ipad-normal (768px < width < 1024px);
+@custom-media --desktop (1025px < width  < 1280px);
+@custom-media --large (width > 1281px);
+
 $font-color: #0D302D;
 $font-secondary-color: #6E928F;
 $primary-color: #2B8EF5;
@@ -243,11 +250,23 @@ p {
 	padding: 0 16px 0 42px;
 }
 
+.big-quote {
+	position: relative;
+	width: 100%;
+	font-size: 1.1rem;
+	padding: 0 0 0 42px;
+	left: -42px;
+}
+
+.quote p, .big-quote p {	
+	color: $font-secondary-color;
+}
+
 #quote-2 {	
 	width: 180px;
 }
 
-.quote::before{
+.quote::before, .big-quote::before{
 	font-family: ProximaNova-Reg; 
   	content: "\201C";
   	color: $font-secondary-color;
@@ -269,4 +288,71 @@ p {
         -ms-user-select: none; /* Internet Explorer/Edge */
             user-select: none; /* Non-prefixed version, currently
                                   supported by Chrome, Opera and Firefox */
+}
+
+@media (min-width: 320px) and (max-width: 480px)  {
+
+	.key-messaging {
+		font-size: 1.6rem;
+	}
+
+	#next-up, .previously {
+		flex-wrap: wrap;
+	}
+
+	.secondary_button {
+		margin-top: 22px;
+	}
+
+	.profile {
+		padding: 16px 0 0 0;
+	}
+
+	#next-up-container, #previously-container {
+		margin: 0 0 60px 0;
+	}
+
+	.quote, #quote-2 {
+		left: 42px;
+		width: calc(100% - 84px);
+
+	}
+
+	.big-quote {
+		left: 0;
+		width: calc(100% - 84px);
+	}
+
+	#quotes-header {
+		margin-bottom: 16px;
+	}
+
+	#quote-container {
+		margin-bottom: 20px;
+	}
+
+	p {
+		font-size: 1.1rem;
+	}
+
+	#index, #forward {
+		width: 150px;
+	}
+
+	#forward {
+		margin-top: 13px;
+	}
+
+	#stride, #clearscore {
+		width: 75px;
+	}
+
+	#index, #forward {
+		padding: 0 40px 0 0;
+	}
+
+	#stride, #clearscore {
+		padding: 0 40px;
+	}
+
 }
