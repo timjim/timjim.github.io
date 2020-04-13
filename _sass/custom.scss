@@ -428,7 +428,7 @@ p {
 		padding: 0 40px;
 	}
 
-	.button::after {
+	.button::after, .secondary_button::after {
 		display: none;
 	}
 
