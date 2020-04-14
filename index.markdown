@@ -17,7 +17,7 @@ layout: home
 </div>
 
 <div id="experts-container">
-	<div id="experts-header"><h3>Joined by experts from</h3></div>
+	<div id="experts-header"><h3>Featuring product experts from</h3></div>
 	<img id="index" src="/assets/images/index_ventures_colourised.png" alt="Index Ventures">
 	<img id="stride" src="/assets/images/stride_vc_colourised.png" alt="Stride.VC">	
 	<img id="forward" src="/assets/images/forward_partners_colourised.png" alt="Forward Partners">	
@@ -31,7 +31,7 @@ layout: home
 		<div class="profile">
 			<p class="date">23rd April 2020</p>
 			<p class="name">Fred Destin, Partner at Stride.VC</p>
-			<p>Fred is the founder of Stride.VC; a seed-stage fund operating in London and Paris. As a General Partner at Accel, he was an early backer in notable startups including Deliveroo and Zoopla.</p>
+			<p>Fred is the founder of <a href="http://stride.vc/?utm_source=productsurgery&utm_medium=website&utm_campaign=none" target="_blank">Stride.VC</a>—a seed-stage fund operating in London and Paris. As a General Partner at Accel, he was an early backer in notable startups including Deliveroo and Zoopla.</p>
 			{% include secondary_button.html url="https://sglondon.typeform.com/to/M4bNXE?typeform-welcome=0" %}
 		</div>
 	</div>
