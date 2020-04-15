@@ -50,21 +50,26 @@ layout: home
 	</div>
 </div>
 
-<h2>how it works<span class="secondary-color">.</span></h2>
-<p> We run private, one-on-one sessions with startups. The sessions are honest and candid, where founders share their real problems—they don't spend time pitching.</p>
-<p> Each session lasts approximately 45 minutes. We give recommendations and provide the startups with an action plan. Startups provide updates over time about their progress.</p>
-
-<h2>you<span class="tertiary-color">.</span></h2>
-<p> You're a founder of a early-stage business that has a live product, and at least some initial usage. This quote by <a href="https://pmarchive.com/guide_to_startups_part4.html" target="_blank">Marc Andreessen</a> describes your current situation:</p>
-
-<div class="big-quote">
-	<p>You can always feel when product-market fit is not happening. The customers aren't quite getting value out of the product, word of mouth isn't spreading, usage isn't growing that fast, press reviews are kind of ‘blah,’ the sales cycle takes too long, and lots of deals never close.
-	</p>
+<div class="explainer-container">
+	<h2>how it works<span class="secondary-color">.</span></h2>
+	<p> We run private, one-on-one sessions with startups. The sessions are honest and candid, where founders share their real problems—they don't spend time pitching.</p>
+	<p> Each session lasts approximately 45 minutes. We give recommendations and provide the startups with an action plan. Startups provide updates over time about their progress.</p>
 </div>
 
-<h2>us<span class="primary-color">.</span></h2>
-<p> We're the team that established <a href="https://www.startupgrind.com/london?utm_source=productsurgery&utm_medium=website&utm_campaign=none" target="_blank">Startup Grind London</a>.</p>
-<p><a href="https://linkedin.com/in/telder" target="_blank">Tim</a> has built products at various venture-backed startups, and at Google. <a href="https://www.linkedin.com/in/gazdik/" target="_blank">Marian</a> is an investor, marketing expert (ex-Orange, ex-Reebok), and startup advisor.</p>
+<div class="explainer-container">
+	<h2>you<span class="tertiary-color">.</span></h2>
+	<p> You're a founder of a early-stage business that has a live product, and at least some initial usage. This quote by <a href="https://pmarchive.com/guide_to_startups_part4.html" target="_blank">Marc Andreessen</a> describes your current situation:</p>
+	<div class="big-quote">
+		<p>You can always feel when product-market fit is not happening. The customers aren't quite getting value out of the product, word of mouth isn't spreading, usage isn't growing that fast, press reviews are kind of ‘blah,’ the sales cycle takes too long, and lots of deals never close.
+		</p>
+	</div>
+</div>
+
+<div class="explainer-container">
+	<h2>us<span class="primary-color">.</span></h2>
+	<p> We're the team that established <a href="https://www.startupgrind.com/london?utm_source=productsurgery&utm_medium=website&utm_campaign=none" target="_blank">Startup Grind London</a>.</p>
+	<p><a href="https://linkedin.com/in/telder" target="_blank">Tim</a> has built products at various venture-backed startups, and at Google. <a href="https://www.linkedin.com/in/gazdik/" target="_blank">Marian</a> is an investor, marketing expert (ex-Orange, ex-Reebok), and startup advisor.</p>
+</div>
 
 
 <div id="previously-container">
