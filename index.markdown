@@ -95,6 +95,18 @@ layout: home
 <script>
 	document.addEventListener('DOMContentLoaded', function() {
 	    var elems = document.getElementsByClassName("transitioning-period");
+	    if(window.location.href.indexOf("referral") > -1){
+		    var vars = {};
+			    var parts = window.location.href.replace(/[?&]+([^=&]+)=([^&]*)/gi, function(m,key,value) {
+			        vars[key] = value;
+			    });
+	    	var buttons = document.getElementsByClassName("button-anchor");
+	    	var url = buttons[0].href;
+	    	var i = buttons.length;
+			while (i--) {
+			    buttons[i].setAttribute("href", url.concat("&referral=", vars["referral"]));
+			};
+		};
 		setInterval(function(){
 		    if(elems[0].classList.contains("period-1")) {
 		        elems[0].classList.remove("tertiary-color");
