@@ -58,7 +58,7 @@ layout: home
 
 <div class="explainer-container">
 	<h2>you<span class="tertiary-color">.</span></h2>
-	<p> You're a founder of a early-stage business that has a live product, and at least some initial usage. This quote by <a href="https://pmarchive.com/guide_to_startups_part4.html" target="_blank">Marc Andreessen</a> describes your current situation:</p>
+	<p> You're a founder of an early-stage business that has a live product, and at least some initial usage. This quote by <a href="https://pmarchive.com/guide_to_startups_part4.html" target="_blank">Marc Andreessen</a> describes your current situation:</p>
 	<div class="big-quote">
 		<p>You can always feel when product-market fit is not happening. The customers aren't quite getting value out of the product, word of mouth isn't spreading, usage isn't growing that fast, press reviews are kind of ‘blah,’ the sales cycle takes too long, and lots of deals never close.
 		</p>
