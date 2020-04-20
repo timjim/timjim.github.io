@@ -21,7 +21,7 @@
 title: Product Surgery
 email: tim.elder@startupgrind.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Find product-market fit.
+  Finding product-market fit is hard. Get free, expert advice at our virtual surgeries.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
