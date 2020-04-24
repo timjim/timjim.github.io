@@ -27,11 +27,11 @@ layout: home
 <div id="next-up-container">
 	<div id="next-up-header"><h2>next up<span class="primary-color">.</span></h2></div>
 	<div id="next-up">
-		<img id="fred" class="profile-image" src="/assets/images/fred-destin.jpg" alt="Fred Destin">
+		<img id="fred" class="profile-image" src="/assets/images/simon-rohrbach.jpg" alt="Simon Rohrbach">
 		<div class="profile">
-			<p class="date">23rd April 2020</p>
-			<p class="name">Fred Destin, Partner at Stride.VC</p>
-			<p>Fred is the founder of <a href="http://stride.vc/?utm_source=productsurgery&utm_medium=website&utm_campaign=none" target="_blank">Stride.VC</a>—a seed-stage fund operating in London and Paris. As a General Partner at Accel, he was an early backer in notable startups including Deliveroo and Zoopla.</p>
+			<p class="date">19th May 2020</p>
+			<p class="name">Simon Rohrbach, Mentor at Index Ventures</p>
+			<p>Simon is a Mentor in Residence at <a href="https://www.indexventures.com/?utm_source=productsurgery&utm_medium=website&utm_campaign=none" target="_blank">Index Ventures</a>—a VC firm that's regularly ranked in the top ten globally. Simon has designed products for several early-stage companies, including Deliveroo. From being their first designer, he went on to build and lead their Research and Design organisation.</p>
 			{% include secondary_button.html url="https://sglondon.typeform.com/to/M4bNXE?typeform-welcome=0" %}
 		</div>
 	</div>
@@ -74,6 +74,15 @@ layout: home
 
 <div id="previously-container">
 	<div id="previously-header"><h2>previously<span class="secondary-color">.</span></h2></div>
+	<div class="previously">
+		<img id="fred" class="profile-image" src="/assets/images/fred-destin.jpg" alt="Fred Destin">
+		<div class="profile">
+			<p class="date">23rd April 2020</p>
+			<p class="name">Fred Destin, Partner at Stride.VC</p>
+			<p>Fred is the founder of <a href="http://stride.vc/?utm_source=productsurgery&utm_medium=website&utm_campaign=none" target="_blank">Stride.VC</a>—a seed-stage fund operating in London and Paris. As a General Partner at Accel, he was an early backer in notable startups including Deliveroo and Zoopla.</p>
+			{% include secondary_button.html url="https://sglondon.typeform.com/to/M4bNXE?typeform-welcome=0" %}
+		</div>
+	</div>
 	<div class="previously">
 		<img id="dharmesh" class="profile-image" src="/assets/images/dharmesh-raithatha.jpg" alt="Dharmesh Raithatha">
 		<div class="profile">
