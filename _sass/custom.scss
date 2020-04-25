@@ -485,7 +485,7 @@ p {
 		padding: 0 40px;
 	}
 
-	.button::after, .secondary_button::after {
+	.button::after, .secondary_button::after, .button::before, .secondary_button::before {
 		display: none;
 	}
 
