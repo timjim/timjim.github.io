@@ -18,16 +18,16 @@ layout: home
 
 <div id="experts-container">
 	<div id="experts-header"><h3>Featuring product experts from</h3></div>
-	<img id="index" src="/assets/images/index_ventures_colourised.png" alt="Index Ventures">
-	<img id="stride" src="/assets/images/stride_vc_colourised.png" alt="Stride.VC">	
-	<img id="forward" src="/assets/images/forward_partners_colourised.png" alt="Forward Partners">	
-	<img id="clearscore" src="/assets/images/clearscore_colourised.png" alt="ClearScore">			
+	<img id="index" src="/assets/images/index_ventures_colourised.png" alt="Index Ventures" title="Index Ventures">
+	<img id="stride" src="/assets/images/stride_vc_colourised.png" alt="Stride.VC" title="Stride.VC">	
+	<img id="forward" src="/assets/images/forward_partners_colourised.png" alt="Forward Partners" title="Forward Partners">	
+	<img id="clearscore" src="/assets/images/clearscore_colourised.png" alt="ClearScore" title="ClearScore">			
 </div>
 
 <div id="next-up-container">
 	<div id="next-up-header"><h2>next up<span class="primary-color">.</span></h2></div>
 	<div id="next-up">
-		<img id="fred" class="profile-image" src="/assets/images/simon-rohrbach.jpg" alt="Simon Rohrbach">
+		<img id="fred" class="profile-image" src="/assets/images/simon-rohrbach.jpg" alt="Simon Rohrbach" title="Simon Rohrbach">
 		<div class="profile">
 			<p class="date">19th May 2020</p>
 			<p class="name">Simon Rohrbach, Mentor at Index Ventures</p>
@@ -75,7 +75,7 @@ layout: home
 <div id="previously-container">
 	<div id="previously-header"><h2>previously<span class="secondary-color">.</span></h2></div>
 	<div class="previously">
-		<img id="fred" class="profile-image" src="/assets/images/fred-destin.jpg" alt="Fred Destin">
+		<img id="fred" class="profile-image" src="/assets/images/fred-destin.jpg" alt="Fred Destin" title="Fred Destin" loading="lazy">
 		<div class="profile">
 			<p class="date">23rd April 2020</p>
 			<p class="name">Fred Destin, Partner at Stride.VC</p>
@@ -83,7 +83,7 @@ layout: home
 		</div>
 	</div>
 	<div class="previously">
-		<img id="dharmesh" class="profile-image" src="/assets/images/dharmesh-raithatha.jpg" alt="Dharmesh Raithatha">
+		<img id="dharmesh" class="profile-image" src="/assets/images/dharmesh-raithatha.jpg" alt="Dharmesh Raithatha" title="Dharmesh Raithatha" loading="lazy">
 		<div class="profile">
 			<p class="date">25th March 2020</p>
 			<p class="name">Dharmesh Raithatha, Partner at Forward Partners</p>
@@ -91,7 +91,7 @@ layout: home
 		</div>
 	</div>
 	<div class="previously">
-		<img id="kash" class="profile-image" src="/assets/images/kash-shah.jpeg" alt="Kash Shah">
+		<img id="kash" class="profile-image" src="/assets/images/kash-shah.jpeg" alt="Kash Shah" title="Kash Shah" loading="lazy">
 		<div class="profile">
 			<p class="date">26th February 2020</p>
 			<p class="name">Kash Shah, ex-CPO at ClearScore</p>
