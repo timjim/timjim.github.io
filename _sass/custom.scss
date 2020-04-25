@@ -49,6 +49,14 @@ $primary-color: #2B8EF5;
 $secondary-color: #FDB146;
 $tertiary-color: #EAADEA;
 
+::selection {
+  background: #FFEFD9;
+}
+
+::-moz-selection {
+  background: #FFEFD9;
+}
+
 .page-content {	
 	padding: 0 !important;
 }

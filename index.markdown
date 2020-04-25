@@ -7,7 +7,7 @@ layout: home
 
 <div id="atf">
 	<div>
-		<h1 id="main-title">product surgery<span class="tertiary-color transitioning-period period-1">.</span></h1>
+		<h1 id="main-title" class="noselect">product surgery<span class="tertiary-color transitioning-period period-1">.</span></h1>
 		<div id="key-messaging-container">
 			<p class="key-messaging">Finding product-market fit is hard.</p>
 			<p class="key-messaging">Get free, expert advice at our virtual surgeries.</p>
@@ -87,7 +87,7 @@ layout: home
 		<div class="profile">
 			<p class="date">25th March 2020</p>
 			<p class="name">Dharmesh Raithatha, Partner at Forward Partners</p>
-			<p>Dharmesh is a Product Partner at Forward Partners; an £81m early-stage fund that has invested in 55+ companies primarily in Applied AI, Marketplaces, and E-Commerce.</p>
+			<p>Dharmesh is a Product Partner at <a href="https://forwardpartners.com/?utm_source=productsurgery&utm_medium=website&utm_campaign=none" target="_blank">Forward Partners</a>—an £81m early-stage fund that has invested in 55+ companies primarily in Applied AI, Marketplaces, and E-Commerce.</p>
 		</div>
 	</div>
 	<div class="previously">
@@ -95,7 +95,7 @@ layout: home
 		<div class="profile">
 			<p class="date">26th February 2020</p>
 			<p class="name">Kash Shah, ex-CPO at ClearScore</p>
-			<p>Kash built one of the fastest growing FinTechs in Europe as the Chief Product Officer of ClearScore. He's now an angel investor, and the CPO at Multiply.</p>
+			<p>Kash built one of the fastest growing FinTechs in Europe as the Chief Product Officer of <a href="https://www.clearscore.com/?utm_source=productsurgery&utm_medium=website&utm_campaign=none" target="_blank">ClearScore</a>. He's now an angel investor, and the CPO at <a href="https://multiply.ai/?utm_source=productsurgery&utm_medium=website&utm_campaign=none" target="_blank">Multiply</a>.</p>
 		</div>
 	</div>
 </div>
