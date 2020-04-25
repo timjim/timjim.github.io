@@ -31,7 +31,7 @@ layout: home
 		<div class="profile">
 			<p class="date">19th May 2020</p>
 			<p class="name">Simon Rohrbach, Mentor at Index Ventures</p>
-			<p>Simon is a Mentor in Residence at <a href="https://www.indexventures.com/?utm_source=productsurgery&utm_medium=website&utm_campaign=none" target="_blank">Index Ventures</a>—a VC firm that's regularly ranked in the top ten globally. He previously built and ran the Research & Design organisation for Deliveroo.</p>
+			<p>Simon is a Mentor in Residence at <a href="https://www.indexventures.com/?utm_source=productsurgery&utm_medium=website&utm_campaign=none" target="_blank">Index Ventures</a>—a VC firm that's regularly ranked in the top ten globally. He previously built and ran the Research & Design organisation at Deliveroo.</p>
 			{% include secondary_button.html url="https://sglondon.typeform.com/to/M4bNXE?typeform-welcome=0" %}
 		</div>
 	</div>
