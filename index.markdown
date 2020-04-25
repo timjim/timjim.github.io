@@ -9,8 +9,8 @@ layout: home
 	<div>
 		<h1 id="main-title" class="noselect">product surgery<span class="tertiary-color transitioning-period period-1">.</span></h1>
 		<div id="key-messaging-container">
-			<p class="key-messaging">Finding product-market fit is hard.</p>
-			<p class="key-messaging">Get free, expert advice at our virtual surgeries.</p>
+			<h2 class="key-messaging">Finding product-market fit is hard.<br>
+			Get free, expert advice at our virtual surgeries.</h2>
 		</div>
 		{% include button.html url="https://sglondon.typeform.com/to/M4bNXE?typeform-welcome=0" %}
 	</div>
