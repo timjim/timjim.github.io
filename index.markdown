@@ -12,7 +12,7 @@ layout: home
 			<h2 class="key-messaging">Finding product-market fit is hard.<br>
 			Get free, expert advice at our virtual surgeries.</h2>
 		</div>
-		{% include button.html url="https://sglondon.typeform.com/to/M4bNXE?typeform-welcome=0" %}
+		{% include button.html url="https://airtable.com/shrKMvV2iBd4rwRSv" %}
 	</div>
 </div>
 
@@ -32,7 +32,7 @@ layout: home
 			<p class="date">19th May 2020</p>
 			<p class="name">Simon Rohrbach, Mentor at Index Ventures</p>
 			<p>Simon is a Mentor in Residence at <a href="https://www.indexventures.com/?utm_source=productsurgery&utm_medium=website&utm_campaign=none" target="_blank">Index Ventures</a>—a VC firm that's regularly ranked in the top ten globally. He previously built and ran the Research & Design organisation at Deliveroo.</p>
-			{% include secondary_button.html url="https://sglondon.typeform.com/to/M4bNXE?typeform-welcome=0" %}
+			{% include secondary_button.html url="https://airtable.com/shrKMvV2iBd4rwRSv" %}
 		</div>
 	</div>
 </div>
@@ -112,7 +112,7 @@ layout: home
 	    	var url = buttons[0].href;
 	    	var i = buttons.length;
 			while (i--) {
-			    buttons[i].setAttribute("href", url.concat("&referral=", vars["referral"]));
+			    buttons[i].setAttribute("href", url.concat("?prefill_Referred%20by=", vars["referral"]));
 			};
 		};
 		setInterval(function(){
