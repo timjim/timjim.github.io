@@ -9,8 +9,7 @@ layout: home
 	<div>
 		<h1 id="main-title" class="noselect">product surgery<span class="tertiary-color transitioning-period period-1">.</span></h1>
 		<div id="key-messaging-container">
-			<h2 class="key-messaging">Finding product-market fit is hard.<br>
-			Get free, expert advice at our virtual surgeries.</h2>
+			<h2 class="key-messaging">Finding product-market fit is hard. Get a free virtual review of your product or service by leading experts.</h2>
 		</div>
 		{% include button.html url="https://airtable.com/shrKMvV2iBd4rwRSv" %}
 	</div>
