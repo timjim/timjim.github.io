@@ -22,7 +22,7 @@ title: Product Surgery
 name: Product Surgery
 email: tim.elder@startupgrind.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Finding product-market fit is hard. Get a free, virtual review of your product or service by leading experts.
+  Get a free, virtual review of your product or service by leading experts.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://productsurgery.com" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
