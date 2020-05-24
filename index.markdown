@@ -23,10 +23,12 @@ layout: home
 	<img id="clearscore" src="/assets/images/clearscore_colourised.png" alt="ClearScore" title="ClearScore">			
 </div>
 
+{%- if false -%}
+
 <div id="next-up-container">
 	<div id="next-up-header"><h2>next up<span class="primary-color">.</span></h2></div>
 	<div id="next-up">
-		<img id="fred" class="profile-image" src="/assets/images/simon-rohrbach.jpg" alt="Simon Rohrbach" title="Simon Rohrbach">
+		<img id="simon" class="profile-image" src="/assets/images/simon-rohrbach.jpg" alt="Simon Rohrbach" title="Simon Rohrbach">
 		<div class="profile">
 			<p class="date">19th May 2020</p>
 			<p class="name">Simon Rohrbach, Mentor at Index Ventures</p>
@@ -49,11 +51,30 @@ layout: home
 	</div>
 </div>
 
+{%- endif -%}
+
 <div class="explainer-container">
 	<h2>how it works<span class="secondary-color">.</span></h2>
 	<p> We run private, one-on-one sessions with startups. The sessions are honest and candid, where founders share their real problems—they don't spend time pitching.</p>
 	<p> Each session lasts approximately 45 minutes. We give recommendations and provide the startups with an action plan. Startups provide updates over time about their progress.</p>
 </div>
+
+{%- if true -%}
+
+<div id="quote-container" style="margin-top: 64px;">
+	<div id="quotes-header"><h3>Feedback from startups</h3></div>
+	<div id="quote-1" class="quote">
+		<p>It was incredible value, and a safe space for feedback. I'd pay for this.</p>
+	</div>
+	<div id="quote-2" class="quote">
+		<p>I found the session super useful. I'll keep you guys posted on progress.</p>
+	</div>
+	<div id="quote-3" class="quote">
+		<p>We really enjoyed it, your feedback was very actionable.</p>
+	</div>
+</div>
+
+{%- endif -%}
 
 <div class="explainer-container">
 	<h2>you<span class="tertiary-color">.</span></h2>
@@ -73,6 +94,14 @@ layout: home
 
 <div id="previously-container">
 	<div id="previously-header"><h2>previously<span class="secondary-color">.</span></h2></div>
+	<div class="previously">
+		<img id="simon" class="profile-image" src="/assets/images/simon-rohrbach.jpg" alt="Simon Rohrbach" title="Simon Rohrbach" loading="lazy">
+		<div class="profile">
+			<p class="date">19th May 2020</p>
+			<p class="name">Simon Rohrbach, Mentor at Index Ventures</p>
+			<p>Simon is a Mentor in Residence at <a href="https://www.indexventures.com/?utm_source=productsurgery&utm_medium=website&utm_campaign=none" target="_blank">Index Ventures</a>—a VC firm that's regularly ranked in the top ten globally. He previously built and ran the Research & Design organisation at Deliveroo.</p>
+		</div>
+	</div>	
 	<div class="previously">
 		<img id="fred" class="profile-image" src="/assets/images/fred-destin.jpg" alt="Fred Destin" title="Fred Destin" loading="lazy">
 		<div class="profile">
