@@ -30,7 +30,7 @@ layout: home
 	<div id="next-up">
 		<img id="matus" class="profile-image" src="/assets/images/matus-maar.jpg" alt="Matus Maar" title="Matus Maar">
 		<div class="profile">
-			<p class="date">16th June 2020</p>
+			<p class="date">17th June 2020</p>
 			<p class="name">Matus Maar, Managing Partner at Talis Capital</p>
 			<p>Matus co-founded <a href="https://www.taliscapital.com/?utm_source=productsurgery&utm_medium=website&utm_campaign=none" target="_blank">Talis Capital</a>—a late-seed VC firm that invests $100M annually in $1M–10M deals. He previously co-founded Pirate Studios, the world's largest chain of rehearsal studios.</p>
 			{% include secondary_button.html url="https://airtable.com/shrKMvV2iBd4rwRSv" %}
