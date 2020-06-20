@@ -94,7 +94,7 @@ layout: home
 
 <div id="previously-container">
 	<div id="previously-header"><h2>previously<span class="secondary-color">.</span></h2></div>
-	<div id="previously">
+	<div class="previously">
 		<img id="matus" class="profile-image" src="/assets/images/matus-maar.jpg" alt="Matus Maar" title="Matus Maar" loading="lazy">
 		<div class="profile">
 			<p class="date">17th June 2020</p>
