@@ -23,7 +23,7 @@ layout: home
 	<img id="clearscore" src="/assets/images/clearscore_colourised.png" alt="ClearScore" title="ClearScore">			
 </div>
 
-{%- if true -%}
+{%- if false -%}
 
 <div id="next-up-container">
 	<div id="next-up-header"><h2>next up<span class="primary-color">.</span></h2></div>
@@ -59,7 +59,7 @@ layout: home
 	<p> Each session lasts approximately 45 minutes. We give recommendations and provide the startups with an action plan. Startups provide updates over time about their progress.</p>
 </div>
 
-{%- if false -%}
+{%- if true -%}
 
 <div id="quote-container" style="margin-top: 64px;">
 	<div id="quotes-header"><h3>Feedback from startups</h3></div>
@@ -94,6 +94,14 @@ layout: home
 
 <div id="previously-container">
 	<div id="previously-header"><h2>previously<span class="secondary-color">.</span></h2></div>
+	<div id="previously">
+		<img id="matus" class="profile-image" src="/assets/images/matus-maar.jpg" alt="Matus Maar" title="Matus Maar" oading="lazy">
+		<div class="profile">
+			<p class="date">17th June 2020</p>
+			<p class="name">Matus Maar, Managing Partner at Talis Capital</p>
+			<p>Matus co-founded <a href="https://www.taliscapital.com/?utm_source=productsurgery&utm_medium=website&utm_campaign=none" target="_blank">Talis Capital</a>—a VC firm that invests $100M annually in $1M–10M deals. He previously co-founded Pirate Studios, the world's largest chain of rehearsal studios.</p>
+		</div>
+	</div>
 	<div class="previously">
 		<img id="simon" class="profile-image" src="/assets/images/simon-rohrbach.jpg" alt="Simon Rohrbach" title="Simon Rohrbach" loading="lazy">
 		<div class="profile">
