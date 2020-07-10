@@ -23,17 +23,21 @@ layout: home
 	<img id="clearscore" src="/assets/images/clearscore_colourised.png" alt="ClearScore" title="ClearScore">			
 </div>
 
-{%- if false -%}
+{%- if true -%}
 
 <div id="next-up-container">
 	<div id="next-up-header"><h2>next up<span class="primary-color">.</span></h2></div>
 	<div id="next-up">
-		<img id="matus" class="profile-image" src="/assets/images/matus-maar.jpg" alt="Matus Maar" title="Matus Maar">
+		<img id="avid" class="profile-image" src="/assets/images/avid-larizadeh-duggan.jpg" alt="Avid Larizadeh Duggan" title="Avid Larizadeh Duggan">
 		<div class="profile">
-			<p class="date">17th June 2020</p>
-			<p class="name">Matus Maar, Managing Partner at Talis Capital</p>
-			<p>Matus co-founded <a href="https://www.taliscapital.com/?utm_source=productsurgery&utm_medium=website&utm_campaign=none" target="_blank">Talis Capital</a>—a VC firm that invests $100M annually in $1M–10M deals. He previously co-founded Pirate Studios, the world's largest chain of rehearsal studios.</p>
+			<p class="date">20th August 2020</p>
+			<p class="name">Avid Larizadeh Duggan OBE, Entrepreneur and Investor</p>
+			<p class="description">Avid is the ex-COO of <a href="https://www.kobaltmusic.com/?utm_source=productsurgery&utm_medium=website&utm_campaign=none" target="_blank">Kobalt</a>—the music services unicorn. She has been a General Partner at Google Ventures, an Associate at Accel, and a Product Manager at Skype and eBay. Her angel investments include Okta, which achieved an IPO in 2017.</p>
+			{%- if false -%}
+
 			{% include secondary_button.html url="https://airtable.com/shrKMvV2iBd4rwRSv" %}
+
+			{%- endif -%}
 		</div>
 	</div>
 </div>
@@ -59,7 +63,7 @@ layout: home
 	<p> Each session lasts approximately 45 minutes. We give recommendations and provide the startups with an action plan. Startups provide updates over time about their progress.</p>
 </div>
 
-{%- if true -%}
+{%- if false -%}
 
 <div id="quote-container" style="margin-top: 64px;">
 	<div id="quotes-header"><h3>Feedback from startups</h3></div>
@@ -99,7 +103,7 @@ layout: home
 		<div class="profile">
 			<p class="date">17th June 2020</p>
 			<p class="name">Matus Maar, Managing Partner at Talis Capital</p>
-			<p>Matus co-founded <a href="https://www.taliscapital.com/?utm_source=productsurgery&utm_medium=website&utm_campaign=none" target="_blank">Talis Capital</a>—a VC firm that invests $100M annually in $1M–10M deals. He previously co-founded Pirate Studios, the world's largest chain of rehearsal studios.</p>
+			<p class="description">Matus co-founded <a href="https://www.taliscapital.com/?utm_source=productsurgery&utm_medium=website&utm_campaign=none" target="_blank">Talis Capital</a>—a VC firm that invests $100M annually in $1M–10M deals. He previously co-founded Pirate Studios, the world's largest chain of rehearsal studios.</p>
 		</div>
 	</div>
 	<div class="previously">
@@ -107,7 +111,7 @@ layout: home
 		<div class="profile">
 			<p class="date">19th May 2020</p>
 			<p class="name">Simon Rohrbach, Mentor at Index Ventures</p>
-			<p>Simon is a Mentor in Residence at <a href="https://www.indexventures.com/?utm_source=productsurgery&utm_medium=website&utm_campaign=none" target="_blank">Index Ventures</a>—a VC firm that's regularly ranked in the top ten globally. He previously built and ran the Research & Design organisation at Deliveroo.</p>
+			<p class="description">Simon is a Mentor in Residence at <a href="https://www.indexventures.com/?utm_source=productsurgery&utm_medium=website&utm_campaign=none" target="_blank">Index Ventures</a>—a VC firm that's regularly ranked in the top ten globally. He previously built and ran the Research & Design organisation at Deliveroo.</p>
 		</div>
 	</div>	
 	<div class="previously">
@@ -115,7 +119,7 @@ layout: home
 		<div class="profile">
 			<p class="date">23rd April 2020</p>
 			<p class="name">Fred Destin, Partner at Stride.VC</p>
-			<p>Fred is the founder of <a href="http://stride.vc/?utm_source=productsurgery&utm_medium=website&utm_campaign=none" target="_blank">Stride.VC</a>—a seed-stage fund operating in London and Paris. As a General Partner at Accel, he was an early backer in notable startups including Deliveroo and Zoopla.</p>
+			<p class="description">Fred is the founder of <a href="http://stride.vc/?utm_source=productsurgery&utm_medium=website&utm_campaign=none" target="_blank">Stride.VC</a>—a seed-stage fund operating in London and Paris. As a General Partner at Accel, he was an early backer in notable startups including Deliveroo and Zoopla.</p>
 		</div>
 	</div>
 	<div class="previously">
@@ -123,7 +127,7 @@ layout: home
 		<div class="profile">
 			<p class="date">25th March 2020</p>
 			<p class="name">Dharmesh Raithatha, Partner at Forward Partners</p>
-			<p>Dharmesh is a Product Partner at <a href="https://forwardpartners.com/?utm_source=productsurgery&utm_medium=website&utm_campaign=none" target="_blank">Forward Partners</a>—an £81M early-stage fund that has invested in 55+ companies primarily in Applied AI, Marketplaces, and E-Commerce.</p>
+			<p class="description">Dharmesh is a Product Partner at <a href="https://forwardpartners.com/?utm_source=productsurgery&utm_medium=website&utm_campaign=none" target="_blank">Forward Partners</a>—an £81M early-stage fund that has invested in 55+ companies primarily in Applied AI, Marketplaces, and E-Commerce.</p>
 		</div>
 	</div>
 	<div class="previously">
@@ -131,7 +135,7 @@ layout: home
 		<div class="profile">
 			<p class="date">26th February 2020</p>
 			<p class="name">Kash Shah, ex-CPO at ClearScore</p>
-			<p>Kash built one of the fastest growing FinTechs in Europe as the Chief Product Officer of <a href="https://www.clearscore.com/?utm_source=productsurgery&utm_medium=website&utm_campaign=none" target="_blank">ClearScore</a>. He's now an angel investor, and the CPO at <a href="https://multiply.ai/?utm_source=productsurgery&utm_medium=website&utm_campaign=none" target="_blank">Multiply</a>.</p>
+			<p class="description">Kash built one of the fastest growing FinTechs in Europe as the Chief Product Officer of <a href="https://www.clearscore.com/?utm_source=productsurgery&utm_medium=website&utm_campaign=none" target="_blank">ClearScore</a>. He's now an angel investor, and the CPO at <a href="https://multiply.ai/?utm_source=productsurgery&utm_medium=website&utm_campaign=none" target="_blank">Multiply</a>.</p>
 		</div>
 	</div>
 </div>
