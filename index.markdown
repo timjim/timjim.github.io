@@ -33,11 +33,6 @@ layout: home
 			<p class="date">20th August 2020</p>
 			<p class="name">Avid Larizadeh Duggan OBE, Entrepreneur and Investor</p>
 			<p class="description">Avid is the ex-COO of <a href="https://www.kobaltmusic.com/?utm_source=productsurgery&utm_medium=website&utm_campaign=none" target="_blank">Kobalt</a>—the music services unicorn. She has been a General Partner at Google Ventures, an Associate at Accel, and a Product Manager at Skype and eBay. Her angel investments include Okta, which went public in 2017.</p>
-			{%- if false -%}
-
-			{% include secondary_button.html url="https://airtable.com/shrKMvV2iBd4rwRSv" %}
-
-			{%- endif -%}
 		</div>
 	</div>
 </div>
@@ -178,6 +173,17 @@ layout: home
 	    		elems[0].classList.add("period-1");	
 		    }	    	    
 		}, 5000);
+	    var footer = document.getElementById('sticky-footer');
+	    var button = document.getElementById('primary-button');
+	    var buttonOffset = button.getBoundingClientRect();
+	    var triggerHeight = window.pageYOffset + buttonOffset.top + buttonOffset.height*.6;
+		window.onscroll = function() {
+		    if (window.pageYOffset > triggerHeight) {
+		        footer.classList.add("show-footer");
+		    } else {
+		        footer.classList.remove("show-footer");
+		    }
+		}
 	}, false);
 
 </script>
