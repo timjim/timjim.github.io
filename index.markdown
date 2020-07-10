@@ -133,6 +133,7 @@ layout: home
 			<p class="description">Kash built one of the fastest growing FinTechs in Europe as the Chief Product Officer of <a href="https://www.clearscore.com/?utm_source=productsurgery&utm_medium=website&utm_campaign=none" target="_blank">ClearScore</a>. He's now an angel investor, and the CPO at <a href="https://multiply.ai/?utm_source=productsurgery&utm_medium=website&utm_campaign=none" target="_blank">Multiply</a>.</p>
 		</div>
 	</div>
+	<div style="width:100%; height: 90px;"></div>
 </div>
 
 <script>
