@@ -28,11 +28,11 @@ layout: home
 <div id="next-up-container">
 	<div id="next-up-header"><h2>next up<span class="primary-color">.</span></h2></div>
 	<div id="next-up">
-		<img id="avid" class="profile-image" src="/assets/images/avid-larizadeh-duggan.jpg" alt="Avid Larizadeh Duggan" title="Avid Larizadeh Duggan">
+		<img id="avid" class="profile-image" src="/assets/images/reshma-and-devin.jpg" alt="Reshma Sohoni and Devin Hunt" title="Reshma Sohoni and Devin Hunt">
 		<div class="profile">
-			<p class="date">20th August 2020</p>
-			<p class="name">Avid Larizadeh Duggan OBE, Entrepreneur and Investor</p>
-			<p class="description">Avid is the ex-COO of <a href="https://www.kobaltmusic.com/?utm_source=productsurgery&utm_medium=website&utm_campaign=none" target="_blank">Kobalt</a>—the music services unicorn. She has been a General Partner at Google Ventures, an Associate at Accel, and a Product Manager at Skype and eBay. Her angel investments include Okta, which went public in 2017.</p>
+			<p class="date">1st October 2020</p>
+			<p class="name">Reshma Sohoni and Devin Hunt, Partners at Seedcamp</p>
+			<p class="description">Reshma is the Founding Partner of <a href="https://www.seedcamp.com/?utm_source=productsurgery&utm_medium=website&utm_campaign=none" target="_blank">Seedcamp</a>—the European seed fund that now counts <a href="https://twitter.com/seedcamp/status/1283063772496764928?utm_source=productsurgery&utm_medium=website&utm_campaign=none" target="_blank">a decacorn</a> amongst its portfolio companies. Devin is a Venture Partner, who previously co-founded <a href="https://www.lyst.com/?utm_source=productsurgery&utm_medium=website&utm_campaign=none" target="_blank">Lyst</a>—the global fashion search engine.</p>
 		</div>
 	</div>
 </div>
@@ -93,6 +93,15 @@ layout: home
 
 <div id="previously-container">
 	<div id="previously-header"><h2>previously<span class="secondary-color">.</span></h2></div>
+	<div class="previously">
+		<img id="avid" class="profile-image" src="/assets/images/avid-larizadeh-duggan.jpg" alt="Avid Larizadeh Duggan" title="Avid Larizadeh Duggan" loading="lazy">
+		<div class="profile">
+			<p class="date">20th August 2020</p>
+			<p class="name">Avid Larizadeh Duggan OBE, Entrepreneur and Investor</p>
+			<p class="description">Avid is the ex-COO of <a href="https://www.kobaltmusic.com/?utm_source=productsurgery&utm_medium=website&utm_campaign=none" target="_blank">Kobalt</a>—the music services unicorn. She has been a General Partner at Google Ventures, an Associate at Accel, and a Product Manager at Skype and eBay. Her angel investments include Okta, which went public in 2017.</p>
+		</div>
+	</div>
+
 	<div class="previously">
 		<img id="matus" class="profile-image" src="/assets/images/matus-maar.jpg" alt="Matus Maar" title="Matus Maar" loading="lazy">
 		<div class="profile">
