@@ -32,7 +32,7 @@ layout: home
 		<div class="profile">
 			<p class="date">1st October 2020</p>
 			<p class="name">Reshma Sohoni and Devin Hunt, Partners at Seedcamp</p>
-			<p class="description">Reshma is the Founding Partner of <a href="https://www.seedcamp.com/?utm_source=productsurgery&utm_medium=website&utm_campaign=none" target="_blank">Seedcamp</a>—the European seed fund that now counts <a href="https://twitter.com/seedcamp/status/1283063772496764928?utm_source=productsurgery&utm_medium=website&utm_campaign=none" target="_blank">a decacorn</a> amongst its portfolio companies. Devin is a Venture Partner, who previously co-founded <a href="https://www.lyst.com/?utm_source=productsurgery&utm_medium=website&utm_campaign=none" target="_blank">Lyst</a>—the global fashion search engine.</p>
+			<p class="description">Reshma is the Founding Partner of <a href="https://www.seedcamp.com/?utm_source=productsurgery&utm_medium=website&utm_campaign=none" target="_blank">Seedcamp</a>—the European seed fund that now counts <a href="https://twitter.com/seedcamp/status/1283063772496764928?utm_source=productsurgery&utm_medium=website&utm_campaign=none" target="_blank">a decacorn</a> among its portfolio companies. Devin is a Venture Partner, who previously co-founded <a href="https://www.lyst.com/?utm_source=productsurgery&utm_medium=website&utm_campaign=none" target="_blank">Lyst</a>—the global fashion search engine.</p>
 		</div>
 	</div>
 </div>
