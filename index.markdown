@@ -127,11 +127,11 @@ layout: home
 		</div>
 	</div>
 	<div class="previously">
-		<img id="dharmesh" class="profile-image" src="/assets/images/dharmesh-raithatha.jpg" alt="Dharmesh Raithatha" title="Dharmesh Raithatha" loading="lazy">
+		<img id="dharmesh" class="profile-image" src="/assets/images/dharmesh-adam.jpg" alt="Dharmesh Raithatha and Adam Field" title="Dharmesh Raithatha and Adam Field" loading="lazy">
 		<div class="profile">
 			<p class="date">25th March 2020</p>
-			<p class="name">Dharmesh Raithatha, Partner at Forward Partners</p>
-			<p class="description">Dharmesh is a Product Partner at <a href="https://forwardpartners.com/?utm_source=productsurgery&utm_medium=website&utm_campaign=none" target="_blank">Forward Partners</a>—an £81M early-stage fund that has invested in 55+ companies primarily in Applied AI, Marketplaces, and E-Commerce.</p>
+			<p class="name">Dharmesh Raithatha and Adam Field, Product at Forward Partners</p>
+			<p class="description">Dharmesh and Adam are a Product Partner and Product Manager from <a href="https://forwardpartners.com/?utm_source=productsurgery&utm_medium=website&utm_campaign=none" target="_blank">Forward Partners</a>—an £81M early-stage fund that has invested in 55+ companies primarily in Applied AI, Marketplaces, and E-Commerce.</p>
 		</div>
 	</div>
 	<div class="previously">
