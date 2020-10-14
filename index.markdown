@@ -12,6 +12,7 @@ layout: home
 			<h2 class="key-messaging">Get a free, virtual review of your product or service by leading experts.</h2>
 		</div>
 		{% include button.html url="https://airtable.com/shrKMvV2iBd4rwRSv" %}
+		<a id="update-application" class="noselect" href="https://airtable.com/shrwuPwInT4ZclWyy" target="_blank">or update an existing application</a>
 	</div>
 </div>
 
@@ -28,11 +29,11 @@ layout: home
 <div id="next-up-container">
 	<div id="next-up-header"><h2>next up<span class="primary-color">.</span></h2></div>
 	<div id="next-up">
-		<img id="avid" class="profile-image" src="/assets/images/reshma-and-devin.jpg" alt="Reshma Sohoni and Devin Hunt" title="Reshma Sohoni and Devin Hunt">
+		<img id="michelle" class="profile-image" src="/assets/images/michelle-you.jpg" alt="Michelle You" title="Michelle You">
 		<div class="profile">
-			<p class="date">1st October 2020</p>
-			<p class="name">Reshma Sohoni and Devin Hunt, Partners at Seedcamp</p>
-			<p class="description">Reshma is the Founding Partner of <a href="https://www.seedcamp.com/?utm_source=productsurgery&utm_medium=website&utm_campaign=none" target="_blank">Seedcamp</a>—the European seed fund that now counts <a href="https://twitter.com/seedcamp/status/1283063772496764928?utm_source=productsurgery&utm_medium=website&utm_campaign=none" target="_blank">a decacorn</a> among its portfolio companies. Devin is a Venture Partner, who previously co-founded <a href="https://www.lyst.com/?utm_source=productsurgery&utm_medium=website&utm_campaign=none" target="_blank">Lyst</a>—the global fashion search engine.</p>
+			<p class="date">4th November 2020</p>
+			<p class="name">Michelle You, Venture Partner at LocalGlobe</p>
+			<p class="description">Michelle is a Venture Partner at <a href="https://www.localglobe.vc/?utm_source=productsurgery&utm_medium=website&utm_campaign=none" target="_blank">LocalGlobe</a>—a UK-based venture capital firm that focuses on seed and impact investments. She previously was the co-founder & CPO of <a href="https://www.songkick.com/?utm_source=productsurgery&utm_medium=website&utm_campaign=none" target="_blank">Songkick</a>, a service that makes it easy to go to concerts.</p>
 		</div>
 	</div>
 </div>
@@ -93,6 +94,16 @@ layout: home
 
 <div id="previously-container">
 	<div id="previously-header"><h2>previously<span class="secondary-color">.</span></h2></div>
+
+	<div class="previously">
+		<img id="reshma" class="profile-image" src="/assets/images/reshma-and-devin.jpg" alt="Reshma Sohoni and Devin Hunt" title="Reshma Sohoni and Devin Hunt" loading="lazy">
+		<div class="profile">
+			<p class="date">1st October 2020</p>
+			<p class="name">Reshma Sohoni and Devin Hunt, Partners at Seedcamp</p>
+			<p class="description">Reshma is the Founding Partner of <a href="https://www.seedcamp.com/?utm_source=productsurgery&utm_medium=website&utm_campaign=none" target="_blank">Seedcamp</a>—the European seed fund that now counts <a href="https://twitter.com/seedcamp/status/1283063772496764928?utm_source=productsurgery&utm_medium=website&utm_campaign=none" target="_blank">a decacorn</a> among its portfolio companies. Devin is a Venture Partner, who previously co-founded <a href="https://www.lyst.com/?utm_source=productsurgery&utm_medium=website&utm_campaign=none" target="_blank">Lyst</a>—the global fashion search engine.</p>
+		</div>
+	</div>
+
 	<div class="previously">
 		<img id="avid" class="profile-image" src="/assets/images/avid-larizadeh-duggan.jpg" alt="Avid Larizadeh Duggan" title="Avid Larizadeh Duggan" loading="lazy">
 		<div class="profile">
