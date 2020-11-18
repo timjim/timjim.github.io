@@ -309,12 +309,23 @@ p {
 	align-items: center;
 	justify-content: space-between;
 	min-height: 20vh;
-	padding: 0 0 5vh 0;
+	padding: 0 0 15vh 0;
 }
 
 #experts-header {
 	border-bottom: 2px solid $font-secondary-color;
 	width: 100%;
+}
+
+#experts-image {
+	margin-top: 20px;
+	width: 100%;
+}
+
+#experts-image-mobile {
+	margin-top: 20px;
+	width: 100%;
+	display: none;
 }
 
 #index, #forward {
@@ -479,7 +490,7 @@ p {
 @media (max-width: 480px)  {
 
 	.key-messaging {
-		font-size: 1.4rem;
+		font-size: 1.3rem;
 		line-height: 2.4rem;
 	}
 
@@ -487,6 +498,13 @@ p {
 		font-size: 1.2rem;
 	}
 
+	#experts-image-mobile {
+		display: block;
+	}
+
+	#experts-image {
+		display: none;
+	}
 
 	#next-up-container, #previously-container {
 		margin: 0 0 60px 0;
@@ -502,7 +520,7 @@ p {
 		width: calc(100% - 84px);
 	}
 
-	#quotes-header, #experts-header {
+	#quotes-header {
 		margin-bottom: 16px;
 	}
 

@@ -18,13 +18,11 @@ layout: home
 
 <div id="experts-container">
 	<div id="experts-header"><h3>Featuring product experts from</h3></div>
-	<img id="index" src="/assets/images/index_ventures_colourised.png" alt="Index Ventures" title="Index Ventures">
-	<img id="stride" src="/assets/images/stride_vc_colourised.png" alt="Stride.VC" title="Stride.VC">	
-	<img id="forward" src="/assets/images/forward_partners_colourised.png" alt="Forward Partners" title="Forward Partners">	
-	<img id="clearscore" src="/assets/images/clearscore_colourised.png" alt="ClearScore" title="ClearScore">			
+	<img id="experts-image" src="/assets/images/product_experts.svg" loading="eager" alt="Product Surgery | Product experts" title="Product Surgery | Product expertse">
+	<img id="experts-image-mobile" src="/assets/images/product_experts_mobile.svg" loading="eager" alt="Product Surgery | Product experts" title="Product Surgery | Product experts">					
 </div>
 
-{%- if true -%}
+{%- if false -%}
 
 <div id="next-up-container">
 	<div id="next-up-header"><h2>next up<span class="primary-color">.</span></h2></div>
@@ -59,7 +57,7 @@ layout: home
 	<p> Each session lasts approximately 45 minutes. We give recommendations and provide the startups with an action plan. Startups provide updates over time about their progress.</p>
 </div>
 
-{%- if false -%}
+{%- if true -%}
 
 <div id="quote-container" style="margin-top: 64px;">
 	<div id="quotes-header"><h3>Feedback from startups</h3></div>
@@ -94,6 +92,15 @@ layout: home
 
 <div id="previously-container">
 	<div id="previously-header"><h2>previously<span class="secondary-color">.</span></h2></div>
+
+	<div class="previously">
+		<img id="michelle" class="profile-image" src="/assets/images/michelle-you.jpg" alt="Michelle You" title="Michelle You" loading="lazy">
+		<div class="profile">
+			<p class="date">4th November 2020</p>
+			<p class="name">Michelle You, Venture Partner at LocalGlobe</p>
+			<p class="description">Michelle is a Venture Partner at <a href="https://www.localglobe.vc/?utm_source=productsurgery&utm_medium=website&utm_campaign=none" target="_blank">LocalGlobe</a>—a UK-based venture capital firm that focuses on seed and impact investments. She previously was the co-founder & CPO of <a href="https://www.songkick.com/?utm_source=productsurgery&utm_medium=website&utm_campaign=none" target="_blank">Songkick</a>, a service that makes it easy to go to concerts.</p>
+		</div>
+	</div>
 
 	<div class="previously">
 		<img id="reshma" class="profile-image" src="/assets/images/reshma-and-devin.jpg" alt="Reshma Sohoni and Devin Hunt" title="Reshma Sohoni and Devin Hunt" loading="lazy">
