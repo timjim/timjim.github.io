@@ -22,16 +22,16 @@ layout: home
 	<img id="experts-image-mobile" src="/assets/images/product_experts_mobile.svg" loading="eager" alt="Product Surgery | Product experts" title="Product Surgery | Product experts">					
 </div>
 
-{%- if false -%}
+{%- if true -%}
 
 <div id="next-up-container">
 	<div id="next-up-header"><h2>next up<span class="primary-color">.</span></h2></div>
 	<div id="next-up">
-		<img id="michelle" class="profile-image" src="/assets/images/michelle-you.jpg" alt="Michelle You" title="Michelle You">
+		<img id="mattias" class="profile-image" src="/assets/images/mattias-ljungman.png" alt="Mattias Ljungman" title="Mattias Ljungman">
 		<div class="profile">
-			<p class="date">4th November 2020</p>
-			<p class="name">Michelle You, Venture Partner at LocalGlobe</p>
-			<p class="description">Michelle is a Venture Partner at <a href="https://www.localglobe.vc/?utm_source=productsurgery&utm_medium=website&utm_campaign=none" target="_blank">LocalGlobe</a>—a UK-based venture capital firm that focuses on seed and impact investments. She previously was the co-founder & CPO of <a href="https://www.songkick.com/?utm_source=productsurgery&utm_medium=website&utm_campaign=none" target="_blank">Songkick</a>, a service that makes it easy to go to concerts.</p>
+			<p class="date">27th January 2021</p>
+			<p class="name">Mattias Ljungman, Founder at Moonfire</p>
+			<p class="description">Mattias founded <a href="https://www.moonfire.com/?utm_source=productsurgery&utm_medium=website&utm_campaign=none" target="_blank">Moonfire Ventures</a>—a European seed fund that provides founders with their first money in. He previously co-founded <a href="https://www.atomico.com/?utm_source=productsurgery&utm_medium=website&utm_campaign=none" target="_blank">Atomico</a>, where his investments included Supercell, Klarna, Viagogo, and Climate Corp.</p>
 		</div>
 	</div>
 </div>
@@ -57,7 +57,7 @@ layout: home
 	<p> Each session lasts approximately 45 minutes. We give recommendations and provide the startups with an action plan. Startups provide updates over time about their progress.</p>
 </div>
 
-{%- if true -%}
+{%- if false -%}
 
 <div id="quote-container" style="margin-top: 64px;">
 	<div id="quotes-header"><h3>Feedback from startups</h3></div>
