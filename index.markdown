@@ -31,7 +31,7 @@ layout: home
 		<div class="profile">
 			<p class="date">27th January 2021</p>
 			<p class="name">Mattias Ljungman, Founder at Moonfire</p>
-			<p class="description">Mattias founded <a href="https://www.moonfire.com/?utm_source=productsurgery&utm_medium=website&utm_campaign=none" target="_blank">Moonfire Ventures</a>—a European seed fund that provides founders with their first money in. He previously co-founded <a href="https://www.atomico.com/?utm_source=productsurgery&utm_medium=website&utm_campaign=none" target="_blank">Atomico</a>, where his investments included Supercell, Klarna, Viagogo, and Climate Corp.</p>
+			<p class="description">Mattias founded <a href="https://www.moonfire.com/?utm_source=productsurgery&utm_medium=website&utm_campaign=none" target="_blank">Moonfire Ventures</a>—a European seed fund that provides founders with their first money in. He previously co-founded <a href="https://www.atomico.com/?utm_source=productsurgery&utm_medium=website&utm_campaign=none" target="_blank">Atomico</a>, where his investments included Supercell ($5bn exit to Softbank), Klarna ($10.7bn valuation), Viagogo ($2.3bn valuation), and Climate Corp ($1.1bn exit to Monsanto).</p>
 		</div>
 	</div>
 </div>
