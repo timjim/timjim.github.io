@@ -22,16 +22,16 @@ layout: home
 	<img id="experts-image-mobile" src="/assets/images/product_experts_mobile.svg" loading="eager" alt="Product Surgery | Product experts" title="Product Surgery | Product experts">					
 </div>
 
-{%- if false -%}
+{%- if true -%}
 
 <div id="next-up-container">
 	<div id="next-up-header"><h2>next up<span class="primary-color">.</span></h2></div>
 	<div id="next-up">
-		<img id="mattias" class="profile-image" src="/assets/images/mattias-ljungman.png" alt="Mattias Ljungman" title="Mattias Ljungman">
+		<img id="jon" class="profile-image" src="/assets/images/jon-butterfield.png" alt="Jon Butterfield" title="Jon Butterfield">
 		<div class="profile">
-			<p class="date">27th January 2021</p>
-			<p class="name">Mattias Ljungman, Founder at Moonfire</p>
-			<p class="description">Mattias founded <a href="https://www.moonfire.com/?utm_source=productsurgery&utm_medium=website&utm_campaign=none" target="_blank">Moonfire Ventures</a>—a European seed fund that provides founders with their first money in. He previously co-founded <a href="https://www.atomico.com/?utm_source=productsurgery&utm_medium=website&utm_campaign=none" target="_blank">Atomico</a>, where his investments included Supercell ($5bn exit to Softbank), Klarna ($10.7bn valuation), Viagogo ($2.3bn valuation), and Climate Corp ($1.1bn exit to Monsanto).</p>
+			<p class="date">27th April 2021</p>
+			<p class="name">Jon Butterfield, Head of Growth at Speedinvest</p>
+			<p class="description">Jon is the Head of Growth at <a href="https://www.speedinvest.com/?utm_source=productsurgery&utm_medium=website&utm_campaign=none" target="_blank">Speedinvest</a>—a venture capital fund with more than €400m to invest in early-stage tech startups across Europe. Over the past 15 years Jon has been a serial startup founder, mentor, and angel investor.</p>
 		</div>
 	</div>
 </div>
@@ -57,7 +57,7 @@ layout: home
 	<p> Each session lasts approximately 45 minutes. We give recommendations and provide the startups with an action plan. Startups provide updates over time about their progress.</p>
 </div>
 
-{%- if true -%}
+{%- if false -%}
 
 <div id="quote-container" style="margin-top: 64px;">
 	<div id="quotes-header"><h3>Feedback from startups</h3></div>
