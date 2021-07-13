@@ -22,7 +22,7 @@ layout: home
 	<img id="experts-image-mobile" src="/assets/images/product_experts_mobile.svg" loading="eager" alt="Product Surgery | Product experts" title="Product Surgery | Product experts">					
 </div>
 
-{%- if true -%}
+{%- if false -%}
 
 <div id="next-up-container">
 	<div id="next-up-header"><h2>next up<span class="primary-color">.</span></h2></div>
@@ -57,7 +57,7 @@ layout: home
 	<p> Each session lasts approximately 45 minutes. We give recommendations and provide the startups with an action plan. Startups provide updates over time about their progress.</p>
 </div>
 
-{%- if false -%}
+{%- if true -%}
 
 <div id="quote-container" style="margin-top: 64px;">
 	<div id="quotes-header"><h3>Feedback from startups</h3></div>
@@ -92,6 +92,15 @@ layout: home
 
 <div id="previously-container">
 	<div id="previously-header"><h2>previously<span class="secondary-color">.</span></h2></div>
+
+	<div class="previously">
+		<img id="jon" class="profile-image" src="/assets/images/jon-butterfield.png" alt="Jon Butterfield" title="Jon Butterfield" loading="lazy">
+		<div class="profile">
+			<p class="date">27th April 2021</p>
+			<p class="name">Jon Butterfield, Head of Growth at Speedinvest</p>
+			<p class="description">Jon is the Head of Growth at <a href="https://www.speedinvest.com/?utm_source=productsurgery&utm_medium=website&utm_campaign=none" target="_blank">Speedinvest</a>—a venture capital fund with more than €400m to invest in early-stage tech startups across Europe. Over the past 15 years Jon has been a serial startup founder, mentor, and angel investor.</p>
+		</div>
+	</div>
 
 	<div class="previously">
 		<img id="mattias" class="profile-image" src="/assets/images/mattias-ljungman.png" alt="Mattias Ljungman" title="Mattias Ljungman" loading="lazy">
