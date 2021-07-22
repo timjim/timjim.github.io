@@ -22,16 +22,16 @@ layout: home
 	<img id="experts-image-mobile" src="/assets/images/product_experts_mobile.svg" loading="eager" alt="Product Surgery | Product experts" title="Product Surgery | Product experts">					
 </div>
 
-{%- if false -%}
+{%- if true -%}
 
 <div id="next-up-container">
 	<div id="next-up-header"><h2>next up<span class="primary-color">.</span></h2></div>
 	<div id="next-up">
-		<img id="jon" class="profile-image" src="/assets/images/jon-butterfield.png" alt="Jon Butterfield" title="Jon Butterfield">
+		<img id="tom" class="profile-image" src="/assets/images/tom-blomfield.jpg" alt="Tom Blomfield" title="Tom Blomfield">
 		<div class="profile">
-			<p class="date">27th April 2021</p>
-			<p class="name">Jon Butterfield, Head of Growth at Speedinvest</p>
-			<p class="description">Jon is the Head of Growth at <a href="https://www.speedinvest.com/?utm_source=productsurgery&utm_medium=website&utm_campaign=none" target="_blank">Speedinvest</a>—a venture capital fund with more than €400m to invest in early-stage tech startups across Europe. Over the past 15 years Jon has been a serial startup founder, mentor, and angel investor.</p>
+			<p class="date">19th August 2021</p>
+			<p class="name">Tom Blomfield OBE, Entrepreneur and investor</p>
+			<p class="description">Tom co-founded <a href="https://www.monzo.com/?utm_source=productsurgery&utm_medium=website&utm_campaign=none" target="_blank">Monzo</a> and <a href="https://www.gocardless.com/?utm_source=productsurgery&utm_medium=website&utm_campaign=none" target="_blank">GoCardless</a>. Monzo is the digital bank that reached unicorn status in 2018, and GoCardless makes it easy to collect payments by direct debit. Since leaving Monzo in early 2021, Tom has started angel investing.</p>
 		</div>
 	</div>
 </div>
@@ -57,7 +57,7 @@ layout: home
 	<p> Each session lasts approximately 45 minutes. We give recommendations and provide the startups with an action plan. Startups provide updates over time about their progress.</p>
 </div>
 
-{%- if true -%}
+{%- if false -%}
 
 <div id="quote-container" style="margin-top: 64px;">
 	<div id="quotes-header"><h3>Feedback from startups</h3></div>
@@ -175,7 +175,7 @@ layout: home
 		<div class="profile">
 			<p class="date">26th February 2020</p>
 			<p class="name">Kash Shah, ex-CPO at ClearScore</p>
-			<p class="description">Kash built one of the fastest growing FinTechs in Europe as the Chief Product Officer of <a href="https://www.clearscore.com/?utm_source=productsurgery&utm_medium=website&utm_campaign=none" target="_blank">ClearScore</a>. He's now an angel investor, and the CPO at <a href="https://multiply.ai/?utm_source=productsurgery&utm_medium=website&utm_campaign=none" target="_blank">Multiply</a>.</p>
+			<p class="description">Kash built one of the fastest growing FinTechs in Europe as the Chief Product Officer of <a href="https://www.clearscore.com/?utm_source=productsurgery&utm_medium=website&utm_campaign=none" target="_blank">ClearScore</a>. He's now an angel investor, and the CPO at <a href="https://marketfinance.com/?utm_source=productsurgery&utm_medium=website&utm_campaign=none" target="_blank">MarketFinance</a>.</p>
 		</div>
 	</div>
 	<div style="width:100%; height: 90px;"></div>
