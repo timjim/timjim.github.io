@@ -93,7 +93,7 @@ layout: home
 <div id="previously-container">
 	<div id="previously-header"><h2>previously<span class="secondary-color">.</span></h2></div>
 
-	<div id="previously">
+	<div class="previously">
 		<img id="tom-2" class="profile-image" src="/assets/images/tom-blomfield.jpg" alt="Tom Blomfield" title="Tom Blomfield" loading="lazy">
 		<div class="profile">
 			<p class="date">19th August 2021</p>
