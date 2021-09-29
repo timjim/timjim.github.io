@@ -96,7 +96,7 @@ layout: home
 	<div class="previously">
 		<img id="tom-2" class="profile-image" src="/assets/images/tom-blomfield.jpg" alt="Tom Blomfield" title="Tom Blomfield" loading="lazy">
 		<div class="profile">
-			<p class="date">19th August 2021, and 27th September 2021</p>
+			<p class="date">19th August and 27th September 2021</p>
 			<p class="name">Tom Blomfield OBE, Entrepreneur and investor</p>
 			<p class="description">Tom co-founded <a href="https://www.monzo.com/?utm_source=productsurgery&utm_medium=website&utm_campaign=none" target="_blank">Monzo</a> and <a href="https://www.gocardless.com/?utm_source=productsurgery&utm_medium=website&utm_campaign=none" target="_blank">GoCardless</a>. Monzo is the digital bank that reached unicorn status in 2018, and GoCardless makes it easy to collect payments by direct debit. Since leaving Monzo in early 2021, Tom has started angel investing.</p>
 		</div>
