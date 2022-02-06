@@ -9,7 +9,7 @@ layout: home
 	<div>
 		<h1 id="main-title" class="noselect">product surgery<span class="tertiary-color transitioning-period period-1">.</span></h1>
 		<div id="key-messaging-container">
-			<h2 class="key-messaging">Get a free review of your startup and product by an industry expert</h2>
+			<h2 class="key-messaging">Get a free review of your startup's product by an industry expert</h2>
 		</div>
 		{% include button.html url="https://airtable.com/shrKMvV2iBd4rwRSv" %}
 		<a id="update-application" class="noselect" href="https://airtable.com/shrwuPwInT4ZclWyy" target="_blank">or update an existing application</a>
