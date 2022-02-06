@@ -140,6 +140,7 @@ p {
 }
 
 .video-container {
+	-webkit-mask-image: -webkit-radial-gradient(white, black);
 	overflow: hidden;
 	width: 70%;
 	border-radius: 6px;
