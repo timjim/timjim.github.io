@@ -9,7 +9,7 @@ layout: home
 	<div>
 		<h1 id="main-title" class="noselect">product surgery<span class="tertiary-color transitioning-period period-1">.</span></h1>
 		<div id="key-messaging-container">
-			<h2 class="key-messaging">Get a free, virtual review of your product or service by leading experts.</h2>
+			<h2 class="key-messaging">Get a free review of your startup and product by an industry expert</h2>
 		</div>
 		{% include button.html url="https://airtable.com/shrKMvV2iBd4rwRSv" %}
 		<a id="update-application" class="noselect" href="https://airtable.com/shrwuPwInT4ZclWyy" target="_blank">or update an existing application</a>
@@ -17,7 +17,7 @@ layout: home
 </div>
 
 <div id="experts-container">
-	<div id="experts-header"><h3>Featuring product experts from</h3></div>
+	<div id="experts-header"><h3>With experts from</h3></div>
 	<img id="experts-image" src="/assets/images/product_experts.svg" loading="eager" alt="Product Surgery | Product experts" title="Product Surgery | Product expertse">
 	<img id="experts-image-mobile" src="/assets/images/product_experts_mobile.svg" loading="eager" alt="Product Surgery | Product experts" title="Product Surgery | Product experts">					
 </div>
@@ -51,9 +51,26 @@ layout: home
 
 {%- endif -%}
 
+<div class="top-container">
+	<h2>podcast<span class="primary-color">.</span></h2>
+	<div id="horizontal-scroll">
+		<div id="session-videos">
+			<div id="episode-1" class="video-container">
+				<div class='embed-container'><iframe src='https://www.youtube.com/embed/j58I8pyuXyA?start=127' title="YouTube video player" frameborder='0' allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+		    </div>
+		    <div class="video-container coming-soon-video">
+		    	<p>Episode 2: coming soon</p>
+		    </div>
+		    <div class="video-container coming-soon-video desktop-only">
+		    	<p>Episode 3: coming soon</p>
+		    </div>
+		</div>
+    </div>
+</div>
+
 <div class="explainer-container">
 	<h2>how it works<span class="secondary-color">.</span></h2>
-	<p> We run private, one-on-one sessions with startups. The sessions are honest and candid, where founders share their real problems—they don't spend time pitching.</p>
+	<p> We run one-on-one sessions with startups. The sessions are honest and candid, where founders share their real problems—they don't spend time pitching.</p>
 	<p> Each session lasts approximately 45 minutes. We give recommendations and provide the startups with an action plan. Startups provide updates over time about their progress.</p>
 </div>
 
